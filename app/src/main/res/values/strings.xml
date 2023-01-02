@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="what_country_does_this_flag_belong_to">What country does this flag belong to?</string>
+</resources>
